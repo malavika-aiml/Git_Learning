@@ -1,3 +1,7 @@
 hello this is my file
 this are some more changes for second version
 This is the third version change
+This is done on Tuesday
+This is another day of the week
+This is about GIT commands
+This was added in the browser -XYZ
